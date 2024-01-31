@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
+
 
 **I am Sweta, currently a sophomore pursuing Computer Science** 
 
@@ -11,6 +15,5 @@
 - 📫 How to reach me: 
 - 😄 Pronouns: she/her
 
-  ![](https://visitor-badge.laobi.icu/badge?page_id=Swytah.Swytah)
 
 
