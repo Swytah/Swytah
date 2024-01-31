@@ -11,4 +11,6 @@
 - 📫 How to reach me: 
 - 😄 Pronouns: she/her
 
+  ![](https://visitor-badge.laobi.icu/badge?page_id=Swytah.Swytah)
+
 
