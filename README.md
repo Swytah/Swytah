@@ -5,7 +5,7 @@
 </p>
 
 
-**I am Sweta, currently a sophomore pursuing Computer Science** 
+**I am Sweta, currently a junior pursuing Computer Science** 
 
 
 - 🔭 I’m currently working on Android
