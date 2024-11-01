@@ -11,7 +11,7 @@
 - 🔭 I’m currently working on Android
 - 🌱 I’m currently learning DSA and Flutter 
 - 👯 I’m looking to collaborate on Robotics, AI/ML related applications or projects.  
-- 💬 Ask me about Python, C++ and Flutter 
+- 💬 Ask me about Python, C++ and Data analytics  
 - 📫 How to reach me: 
 - 😄 Pronouns: she/her
 
