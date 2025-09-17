@@ -8,11 +8,10 @@
 **I am Sweta, currently a junior pursuing Computer Science** 
 
 
-- 🔭 I’m currently working on Android
-- 🌱 I’m currently learning DSA and Flutter 
-- 👯 I’m looking to collaborate on Robotics, AI/ML related applications or projects.  
+- 🌱 I’m currently learning DSA and MernStack 
+- 👯 I’m looking to collaborate on Data Analysis.  
 - 💬 Ask me about Python, C++ and Data analytics  
-- 📫 How to reach me: 
+- 📫 How to reach me: nathsweta5@gmail.com 
 - 😄 Pronouns: she/her
 
 
